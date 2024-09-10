@@ -10,3 +10,6 @@ GRANT ALL PRIVILEGES ON DATABASE cms TO cms;
 setup stuff on google dashboard and download credentials.json file and place it into /cms/storage/
 
 documentation for setting up Google dashboard can be found on https://myaccount.google.com/dashboard
+
+php artisian serve - build backend for dev
+npm run dev - run frontend for dev
