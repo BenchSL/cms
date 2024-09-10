@@ -1,7 +1,7 @@
 # cms
 cms project
 
-Setup postgres database steps:
+Setup postgres database steps: \n
 CREATE DATABASE cms;
 CREATE USER cms WITH PASSWORD 'cms';
 ALTER DATABASE cms OWNER TO cms;
